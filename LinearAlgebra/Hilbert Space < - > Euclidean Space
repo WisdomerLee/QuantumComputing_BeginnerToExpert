@@ -1,0 +1,29 @@
+complexnumber의 실수, 허수 부분으로 구성된 부분은 일종의 벡터로 볼 수 있고
+이 complex number의 덧셈, 뺄셈, 곱셈, 나눗셈 등의 연산 등은 해당 complex number의 벡터에 matrix 곱으로 표현될 수 있음
+
+
+Hilbert Space - Euclidean Space
+
+complex vector : 하나의 quantum state를 나타냄
+real vector : 하나의 quantum state를 나타냄
+
+complex vector는 vector를 구성하는 요소가 complex number라는 것만 빼곤 real vector와 같음
+
+a + bi  = a  -b
+          b   a
+와 같은 행렬로 나타낼 수 있고
+그것에 따르면 복소수로 표현된 것들은  real vector로 다시 변경될 수 있다
+
+0  -i
+i   0 
+위의 행렬은
+
+0  0  0  1
+0  0 -1  0
+0 -1  0  0
+1  0  0  0
+  위의 행렬로 표기될 수 있음
+즉 complex matrices > real matrices로 변경할 수 있음
+
+Hilbert space: complex vector
+Euclidean space: real vector
