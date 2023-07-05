@@ -1,0 +1,34 @@
+Quantum physics??
+
+Max Planck: Energy quantization의 개념을 도입 
+:흑체 복사에서 나타나는 빛의 파장 분석에서 나타나는 이론적인 부분과 실제 상황이 맞지 않는 부분을 설명하기 위해 도입한 에너지 가설
+에너지는 연속적이지 않고 매우 작은 에너지 단위의 정수배로만 존재할 수 있음
+
+Einstein : Photoelectric effect : 광전자 효과 
+금속에 빛을 쪼였을 때 빛의 파장이 매우 낮으면 전자가 튀어나오지 않고
+빛의 파장이 특정 이상이 되었을 때 전자가 튀어나오는 현상이 발견되었고
+결국 빛이 입자의 형질을 갖는다는 것이 확인됨
+
+Niels Bohr : Bohr model
+수소원자에서 발생하는 빛의 파장을 분석하여 전자가 어느 형태로 존재하는지를 원자 모형을 제시
+: quantum descreet부분이 해당되는 부분을 잘 설명해줌
+
+Louis de Broglie
+De Broglie wave(matter wave) :물질파 : 
+빛이 입자이면서 파동의 성질을 갖듯
+물리적으로 존재하는 모든 물질은 파장과 입자의 형태를 모두 갖는다는 내용
+
+Erwin Schrodinger :Schrodinger equation
+시간으로 편미분방정식을 wavefunction에 적용하면 system의 potential energy를 얻을 수 있는 방정식이 성립됨
+
+Werner Karl Heisenberg
+Matrix mechanics
+역학에서의 position, velocity를 linear algebra의 matrices형태로 표현하여 계산하는 형태로 변경
+
+Paul Dirac
+Canonical quantization
+기존 이론들을 quantization 방식으로 적용한 것...!!
+
+Richard Feynman
+Feynman diagrams, Feynman rules
+quantum electrodynamics and particle physics 부분을 확인??
