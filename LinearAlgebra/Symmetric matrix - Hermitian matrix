@@ -1,0 +1,21 @@
+Real Symmetric Matrix 
+A^T = A
+A^T: transpose matrix
+
+N차원의 real symmetric square matrice의 성질
+1.모든 eigenvalues : real number
+2.모든 eigenvectors : real vector
+3.n개의 서로 다른 eigenvalues가 있음
+4.n개의 서로 선형적으로 독립적인 eigenvector들이 있음
+5.eigenvector들은 서로 다른 eigenvalue들을 갖는데 이것들은 서로에 대해 orthogonal함...
+
+
+Hermitian matrix
+A^+ = A
+A^+: conjugate transpose matrix
+
+conjugate조건이 없으면 해당되는 real matrix는 대칭적(symmetric)이지 않음 
+
+Hermitian matrix A^+ : real symmetric matrix
+Hermitian matrix: real symmetric matrix와 같은 성질을 가짐
+오직 모든 eigenvector는 real vector가 아니라 complex vector일 수도 있음을 제외
