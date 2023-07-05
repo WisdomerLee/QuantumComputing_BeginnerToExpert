@@ -1,0 +1,14 @@
+real orthogonal matrix
+A^TA= AA^T = I, A^T=A^-1
+
+orthogonal matrix는 아래의 성질을 가짐
+row vector, column vector : unit vector와 orthogonal
+서로 orthogonal한 row혹은 column 들의 dot product는 0, 그리고 만약 unit vector들이라면
+row, column 자체의 dot product는 1이 됨
+determinant의 절대적인 크기는 1이 됨 : 어떤 vector transform을 적용시켜도 회전만 될 뿐 크기가 늘어나진 않음
+
+
+unitary matrix
+UU^+ = U^+U=I, U^+=U^-1
+
+unitary matrix를 real matrix로 바꾸면 real orthogonal matrix가 됨
