@@ -1,0 +1,14 @@
+complex number : 복소수
+complex plane으로 표현되는 숫자
+
+complex number의 계산은 vector 계산으로 처리
+
+vector 계산은 linear algebra로 간단히 계산할 수 있음
+
+euler's formula 
+Taylor's formula :테일러 무한급수 합으로 표현하기
+
+exponential function도 테일러 무한급수 합으로 표현....
+  exponential 의 지수에 허수가 들어가면 e^ix = cosx + isinx로 표현
+euler's formula : e^ix = cosx + isinx
+  
