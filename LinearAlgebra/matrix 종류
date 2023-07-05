@@ -1,0 +1,13 @@
+matrix의 종류는 여러 종류가 있으나 quantum computing에 쓰이는 matrix는
+
+euclidean space
+real symmetric orthogonal matrice
+
+hilbert space
+hermitian matrices, unitary matrices, invertible matrices
+unitary matrice : invertible matrice의 속성을 가짐
+
+pauli matrice : hermitian + unitary matrice
+
+hermitian matrices 는 real symmetric matrices와
+unitary matrices는 orthogonal matrices와 짝지어질 수 있음..
